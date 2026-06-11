@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Loanzzones Support</string>
+    <string name="api_base_url">https://catsearchapi.loanzzones.com</string>
+    <string name="tagline">PIONEERS IN LOAN SERVICES</string>
+    <string name="cd_loanzzones_logo">Loanzzones full logo</string>
+    <string name="search_hint">Search Bank…</string>
+    <string name="card_label_bank">Bank / NBFC</string>
+    <string name="card_label_company">Company name</string>
+    <string name="card_label_code">Code</string>
+    <string name="cd_call">Call</string>
+    <string name="cd_share">Share</string>
+    <string name="share_chooser_title">Share contact</string>
+    <string name="share_subject">Loanzzones Support — %1$s</string>
+    <!-- Share body labels (loan tabs) — match requested WhatsApp-style format -->
+    <string name="share_line_loan_type">Loan Type :-</string>
+    <string name="share_line_bank_nbfc">Bank / NBFC Name :-</string>
+    <string name="share_line_channel_name">Channel partner Name :</string>
+    <string name="share_line_channel_code">Channel partner Code:</string>
+    <string name="load_error">Could not load list. Check internet or API URL in settings.</string>
+    <string name="brand_part_blue">zzones</string>
+    <string name="brand_part_orange">Loan</string>
+    <string name="cd_promo_cat_search_banner">Download CAT Search app on Google Play</string>
+    <string name="cd_share_app">Share app</string>
+    <string name="share_app_top_label">Share App</string>
+    <string name="share_app_sheet_title">Share Loanzzones Support</string>
+    <string name="share_app_sheet_subtitle">Send this app link to your team or clients.</string>
+    <string name="share_app_button">Share Link</string>
+    <string name="share_app_copy_button">Copy</string>
+    <string name="share_app_link_copied">Link copied</string>
+    <string name="share_app_chooser_title">Share Loanzzones Support via</string>
+    <string name="share_app_message">Get Loanzzones Support — pioneers in loan services.\n%1$s</string>
+</resources>

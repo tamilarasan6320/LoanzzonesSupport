@@ -1,0 +1,40 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Play upload keystore & secrets (never commit)
+/keystore/
+keystore.properties
+
+# === Added for clean GitHub push ===
+# Build outputs (all modules)
+build/
+**/build/
+/captures
+.externalNativeBuild
+.cxx
+# Signing keys & secrets - keep local, never commit
+*.jks
+*.keystore
+keystore.properties
+key.properties
+local.properties
+# Release / build artifacts
+*.apk
+*.aab
+*.ap_
+# Logs & OS
+*.log
+.DS_Store
